@@ -114,7 +114,7 @@ Pay using dummy visa card
 Use the admin panel to manage orders, menu items.
 
 ## Screenshots
-![1](https://imgur.com/a/GtoyIix)
+![Screenshot 2024-09-20 184850](https://github.com/user-attachments/assets/0e828f87-fd7e-4535-ad73-cbca03c86ac6)
 ![2](https://github.com/prasanthoyasco/restaurant-app/assets/59603716/0cb56d94-a715-48bd-9a7d-05c876a05b2c)
 ![3](https://github.com/prasanthoyasco/restaurant-app/assets/59603716/f5dd216a-dc8d-4042-9a96-4884cdb17aef)
 ![Capture2](https://github.com/prasanthoyasco/restaurant-app/assets/59603716/22fc6a58-b713-4ab7-babb-cff5844e7c55)
